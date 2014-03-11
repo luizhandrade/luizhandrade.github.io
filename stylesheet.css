@@ -8,7 +8,31 @@ body {
 
 h1 {
   font-size: 30px;
-  color: #9932CC;
+  color: #7CBAE6;
   } 
   
+ ul { 
+	 text-align: center;
+ }
   
+ ol {
+	 text-align: center;
+ }
+
+ #bloco { 
+	 font-family: Arial;
+	 height: 104px;
+	 width: 64px;
+	 background-color: #FFF;
+	 border-color: #000;
+	 border-style: solid;
+	 border-width: 2px;
+	 border-radius: 5px;
+	 margin: auto;
+	 text-align: center;
+ }
+
+ #linkGit {
+	 text-decoration: none
+ }
+
