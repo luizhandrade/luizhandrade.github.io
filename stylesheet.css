@@ -6,6 +6,9 @@ body {
   text-align: center;
   }
 
+p {
+	line-height: 2px;
+}	
 h1 {
   font-size: 30px;
   color: #7CBAE6;
